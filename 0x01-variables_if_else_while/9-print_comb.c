@@ -10,7 +10,7 @@ int main(void)
 
 	for (ch = 48; ch <= 57; ch++)
 	{
-		putchar(ch)
+		putchar(ch);
 		if (ch != 57)
 		{
 			putchar(44);
